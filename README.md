@@ -1,10 +1,10 @@
-Rule-Based Chatbot System 🤖
+# Rule-Based Chatbot System 🤖
 This project demonstrates a simple rule-based chatbot built using Python. The chatbot can respond to user inputs based on predefined patterns and rules, without using machine learning models. It is a foundational NLP project ideal for beginners learning how conversational agents work under the hood.
 
-📁 Repository Structure
+# 📁 Repository Structure
 rulebased-chatbot-system/ │ ├── Rule_based_chatbot.ipynb # Jupyter Notebook containing code, explanation, and examples ├── README.md # Project documentation
 
-📌 Features
+# 📌 Features
 Uses regular expressions to match user input
 Implements basic pattern-response pairs
 Demonstrates conversational flow with rule-based logic
@@ -14,7 +14,7 @@ Example Queries:
 "hello"
 "what can you do"
 "tell me a fun fact"
-🚀 How to Run
+# 🚀 How to Run
 Clone the repository:
 git clone https://github.com/ushalakshmi75/rulebased-chatbot-system.git
 cd rulebased-chatbot-system
@@ -38,7 +38,7 @@ re module (standard library)
 
 No external libraries are required.
 
-🙋‍♀️ Author Usha Lakshmi Anumula
+ 🙋‍♀ Author Usha Lakshmi Anumula
 
 GitHub: @ushalakshmi75
 
